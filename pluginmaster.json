@@ -17,5 +17,51 @@
     ],
     "DownloadLinkInstall": "https://github.com/Qmeko/ConditionCommandSender/releases/latest/download/ConditionCommandSender.zip",
     "DownloadLinkUpdate": "https://github.com/Qmeko/ConditionCommandSender/releases/latest/download/ConditionCommandSender.zip"
+  },
+  {
+    "Author": "Qmeko",
+    "Name": "MateriaExtractor",
+    "Punchline": "Retrieve materia and meld from an exdreams share URL.",
+    "Description": "CTRL+Right-click retrieves materia once (auto-accepts the confirm dialog). /mex parses an exdreams gear share URL for inventory check, dry-run, and auto-meld.",
+    "InternalName": "MateriaExtractor",
+    "AssemblyVersion": "0.0.0.3",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Qmeko/MateriaExtractor",
+    "Tags": [
+      "materia",
+      "inventory",
+      "qol",
+      "retrieve",
+      "meld",
+      "exdreams"
+    ],
+    "DownloadLinkInstall": "https://github.com/Qmeko/MateriaExtractor/releases/latest/download/MateriaExtractor.zip",
+    "DownloadLinkUpdate": "https://github.com/Qmeko/MateriaExtractor/releases/latest/download/MateriaExtractor.zip"
+  },
+  {
+    "Author": "XeldarAlz / デバッグ派生版",
+    "Name": "ドマ式麻雀ソルバー デバッグ版",
+    "Punchline": "Mortal／Akochanの判断を表示し、自動操作へ連携します。",
+    "Description": "日本語クライアント対応。Mortal／Akochanを設定で切り替え、打牌・リーチ・パス・チー・ポン・カン・ロン・ツモの判断表示と自動操作を行います。Akochanは高速（リアルタイム）／精度優先を選択できます。",
+    "InternalName": "DomanMahjongSolverDebug",
+    "AssemblyVersion": "0.8.1.23",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Qmeko/FFXIV-AutoMahjongSolver",
+    "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/Images/Icon.png",
+    "Tags": [
+      "mahjong",
+      "doman",
+      "gold-saucer",
+      "ai",
+      "automation",
+      "suggestions",
+      "debug",
+      "development",
+      "external-ai"
+    ],
+    "DownloadLinkInstall": "https://github.com/Qmeko/FFXIV-AutoMahjongSolver/releases/latest/download/DomanMahjongSolverDebug.zip",
+    "DownloadLinkUpdate": "https://github.com/Qmeko/FFXIV-AutoMahjongSolver/releases/latest/download/DomanMahjongSolverDebug.zip"
   }
 ]

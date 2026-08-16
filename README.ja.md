@@ -21,6 +21,8 @@ https://raw.githubusercontent.com/Qmeko/DalamudPlugins/refs/heads/main/pluginmas
 | Icon | Name | Description |
 | ---- | ---- | ---- |
 | | [ConditionCommandSender](https://github.com/Qmeko/ConditionCommandSender) | ログ条件でルールを実行。Wait / Command / Lua。UIは英日対応。 |
+| | [MateriaExtractor](https://github.com/Qmeko/MateriaExtractor) | マテリア回収と exdreams 共有URLからの禁断支援。 |
+| | [ドマ式麻雀ソルバー デバッグ版](https://github.com/Qmeko/FFXIV-AutoMahjongSolver) | Mortal／Akochanの判断を表示し、自動操作へ連携します。 |
 
 ## 連絡先
 
