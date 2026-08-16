@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/Qmeko/DalamudPlugins/refs/heads/main/pluginmas
 | | [ConditionCommandSender](https://github.com/Qmeko/ConditionCommandSender) | Log-trigger rules with tags, commands, waits, and Lua. EN/JA UI. |
 | | [MateriaExtractor](https://github.com/Qmeko/MateriaExtractor) | Retrieve materia and meld from an exdreams share URL. |
 | | [Doman Mahjong Solver Debug](https://github.com/Qmeko/FFXIV-AutoMahjongSolver) | Mortal / Akochan suggestions and auto-play. Mortal installs on first launch. |
+| | [Smart Recipe Restock](https://github.com/Qmeko/SmartRecipeRestock) | Withdraw missing recipe materials from each retainer. |
 <!-- PLUGINS_TABLE_END -->
 
 ## Contact
