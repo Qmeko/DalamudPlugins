@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/Qmeko/DalamudPlugins/refs/heads/main/pluginmas
 <!-- PLUGINS_TABLE_START -->
 | Icon | Name | Description |
 | ---- | ---- | ---- |
-| | [ConditionCommandSender](https://github.com/Qmeko/ConditionCommandSender) | Log-trigger rules with tags, commands, waits, and Lua. EN/JA UI. |
+| <div align="center"><img src="Log-trigger rules with tags, commands, waits, and Lua. EN/JA UI." width="50px"></div> | [ConditionCommandSender](https://github.com/Qmeko/ConditionCommandSender) | All collected logs are evaluated against every enabled rule. Rules are organized with tags. Flow steps are Wait, Command, and Lua. UI language follows Dalamud, or can be switched between English and Japanese in Settings. |
 <!-- PLUGINS_TABLE_END -->
 
 ## Contact

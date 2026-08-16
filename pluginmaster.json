@@ -16,6 +16,7 @@
       "rules"
     ],
     "DownloadLinkInstall": "https://github.com/Qmeko/ConditionCommandSender/releases/latest/download/ConditionCommandSender.zip",
-    "DownloadLinkUpdate": "https://github.com/Qmeko/ConditionCommandSender/releases/latest/download/ConditionCommandSender.zip"
+    "DownloadLinkUpdate": "https://github.com/Qmeko/ConditionCommandSender/releases/latest/download/ConditionCommandSender.zip",
+    "DownloadCount": 0
   }
 ]
