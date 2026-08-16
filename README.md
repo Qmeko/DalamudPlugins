@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/Qmeko/DalamudPlugins/refs/heads/main/pluginmas
 | ---- | ---- | ---- |
 | | [ConditionCommandSender](https://github.com/Qmeko/ConditionCommandSender) | Log-trigger rules with tags, commands, waits, and Lua. EN/JA UI. |
 | | [MateriaExtractor](https://github.com/Qmeko/MateriaExtractor) | Retrieve materia and meld from an exdreams share URL. |
-| | [ドマ式麻雀ソルバー デバッグ版](https://github.com/Qmeko/FFXIV-AutoMahjongSolver) | Mortal／Akochanの判断を表示し、自動操作へ連携します。 |
+| | [ドマ式麻雀ソルバー デバッグ版](https://github.com/Qmeko/FFXIV-AutoMahjongSolver) | Mortal / Akochan suggestions and auto-play. Mortal installs on first launch. |
 <!-- PLUGINS_TABLE_END -->
 
 ## Contact
