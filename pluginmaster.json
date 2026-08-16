@@ -63,5 +63,24 @@
     ],
     "DownloadLinkInstall": "https://github.com/Qmeko/FFXIV-AutoMahjongSolver/releases/latest/download/DomanMahjongSolverDebug.zip",
     "DownloadLinkUpdate": "https://github.com/Qmeko/FFXIV-AutoMahjongSolver/releases/latest/download/DomanMahjongSolverDebug.zip"
+  },
+  {
+    "Author": "Qmeko",
+    "Name": "Smart Recipe Restock",
+    "Punchline": "Withdraw missing recipe materials from each retainer.",
+    "Description": "Reads the open crafting recipe and withdraws missing materials from each retainer. SND is not required. Allagan Tools is optional for stock lookup.",
+    "InternalName": "SmartRecipeRestockHelper",
+    "AssemblyVersion": "0.3.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Qmeko/SmartRecipeRestock",
+    "Tags": [
+      "inventory",
+      "retainer",
+      "crafting",
+      "utility"
+    ],
+    "DownloadLinkInstall": "https://github.com/Qmeko/SmartRecipeRestock/releases/latest/download/SmartRecipeRestock.zip",
+    "DownloadLinkUpdate": "https://github.com/Qmeko/SmartRecipeRestock/releases/latest/download/SmartRecipeRestock.zip"
   }
 ]
