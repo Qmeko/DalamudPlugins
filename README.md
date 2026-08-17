@@ -50,7 +50,7 @@ Discord: q_u.s.a.
 
 ---
 
-## 日本語
+
 
 Qmeko プラグイン用のカスタム Dalamud リポジトリです。
 
