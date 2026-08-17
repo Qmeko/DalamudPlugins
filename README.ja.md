@@ -44,4 +44,4 @@ https://raw.githubusercontent.com/Qmeko/DalamudPlugins/refs/heads/main/pluginmas
 
 ## 連絡先
 
-GitHub: [Qmeko](https://github.com/Qmeko)
+Discord: q_u.s.a.
