@@ -38,9 +38,11 @@ These are **not** installed from `/xlplugins`. Add the DLL in Umbra settings →
 ### Umbra AutoRetainer install
 
 1. Install [Umbra](https://github.com/una-xiv/umbra) and [AutoRetainer](https://github.com/PunishXIV/AutoRetainer)
-2. Build the project or copy `Umbra.AutoRetainer.dll`
-3. In Umbra settings, enable **Custom Plugins** and add the DLL
-4. Add the **AutoRetainer** widget to the toolbar
+2. In Umbra settings, open **Custom Plugins**
+3. Set owner to `Qmeko` and repository to `Umbra.AutoRetainer`, then **Install**
+4. Reload Umbra and add the **AutoRetainer** widget to the toolbar
+
+Or download the zip from [Releases](https://github.com/Qmeko/Umbra.AutoRetainer/releases/latest) and add the DLL.
 
 ## Contact
 

@@ -36,9 +36,11 @@ https://raw.githubusercontent.com/Qmeko/DalamudPlugins/refs/heads/main/pluginmas
 ### Umbra AutoRetainer の入れ方
 
 1. [Umbra](https://github.com/una-xiv/umbra) と [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) を入れる
-2. プロジェクトをビルドするか、`Umbra.AutoRetainer.dll` を用意する
-3. Umbra の設定で **Custom Plugins** を有効にし、DLL を追加する
-4. ツールバーに **AutoRetainer** ウィジェットを足す
+2. Umbra の設定で **Custom Plugins** を開く
+3. オーナーに `Qmeko`、リポジトリ名に `Umbra.AutoRetainer` を入れて **Install**
+4. Umbra を再読み込みし、ツールバーに **AutoRetainer** ウィジェットを足す
+
+または [Releases](https://github.com/Qmeko/Umbra.AutoRetainer/releases/latest) から ZIP をダウンロードして、中の DLL を追加します。
 
 ## 連絡先
 
