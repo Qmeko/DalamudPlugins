@@ -27,6 +27,21 @@ https://raw.githubusercontent.com/Qmeko/DalamudPlugins/refs/heads/main/pluginmas
 | | [Smart Recipe Restock](https://github.com/Qmeko/SmartRecipeRestock) | Withdraw missing recipe materials from each retainer. |
 <!-- PLUGINS_TABLE_END -->
 
+## Umbra plugins
+
+These are **not** installed from `/xlplugins`. Add the DLL in Umbra settings → **Custom Plugins**.
+
+| Name | Description |
+| ---- | ---- |
+| [Umbra AutoRetainer](https://github.com/Qmeko/Umbra.AutoRetainer) | Toolbar widget that shows AutoRetainer retainer and submarine status (`R7\|20　M0\|4`). Click opens `/ays`. |
+
+### Umbra AutoRetainer install
+
+1. Install [Umbra](https://github.com/una-xiv/umbra) and [AutoRetainer](https://github.com/PunishXIV/AutoRetainer)
+2. Build the project or copy `Umbra.AutoRetainer.dll`
+3. In Umbra settings, enable **Custom Plugins** and add the DLL
+4. Add the **AutoRetainer** widget to the toolbar
+
 ## Contact
 
 GitHub: [Qmeko](https://github.com/Qmeko)

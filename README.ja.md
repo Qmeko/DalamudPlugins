@@ -25,6 +25,21 @@ https://raw.githubusercontent.com/Qmeko/DalamudPlugins/refs/heads/main/pluginmas
 | | [Doman Mahjong Solver Debug](https://github.com/Qmeko/FFXIV-AutoMahjongSolver) | Mortal／Akochanの判断で自動操作。Mortalは初回起動時に自動セットアップ。 |
 | | [Smart Recipe Restock](https://github.com/Qmeko/SmartRecipeRestock) | 開いているレシピの不足材料を、各リテイナーから取り出す。 |
 
+## Umbra プラグイン
+
+こちらは `/xlplugins` からは入れません。Umbra の設定 → **Custom Plugins** に DLL を追加します。
+
+| Name | Description |
+| ---- | ---- |
+| [Umbra AutoRetainer](https://github.com/Qmeko/Umbra.AutoRetainer) | ツールバーに AutoRetainer のリテイナー／潜水艦の状態を出します（`R7\|20　M0\|4`）。クリックで `/ays` を開きます。 |
+
+### Umbra AutoRetainer の入れ方
+
+1. [Umbra](https://github.com/una-xiv/umbra) と [AutoRetainer](https://github.com/PunishXIV/AutoRetainer) を入れる
+2. プロジェクトをビルドするか、`Umbra.AutoRetainer.dll` を用意する
+3. Umbra の設定で **Custom Plugins** を有効にし、DLL を追加する
+4. ツールバーに **AutoRetainer** ウィジェットを足す
+
 ## 連絡先
 
 GitHub: [Qmeko](https://github.com/Qmeko)
