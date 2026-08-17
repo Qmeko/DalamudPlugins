@@ -1,6 +1,6 @@
 # DalamudPlugins
 
-[日本語](README.ja.md)
+[日本語](README_ja.md)
 
 Custom Dalamud plugin repository for Qmeko plugins.
 
