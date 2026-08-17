@@ -46,4 +46,4 @@ Or download the zip from [Releases](https://github.com/Qmeko/Umbra.AutoRetainer/
 
 ## Contact
 
-GitHub: [Qmeko](https://github.com/Qmeko)
+Discord: q_u.s.a.
